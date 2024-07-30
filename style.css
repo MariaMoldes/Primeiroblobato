@@ -3,7 +3,7 @@
     padding: 0%;
 }
 body{
-    background-color:aliceblue
+    background: linear-gradient(to right, #39df07,#6eec06,#d7ee07,#e9b303);
 }
 
 .cabecalho{
